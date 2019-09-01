@@ -1,3 +1,5 @@
+#1から1000までをprintする
+
 #coding:utf-8
 
 for i in range (1,1001):

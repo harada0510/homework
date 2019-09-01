@@ -1,3 +1,5 @@
+#test1.pyにおける偶数のみprint
+
 #coding:utf-8
 
 for i in range(1,1001):
